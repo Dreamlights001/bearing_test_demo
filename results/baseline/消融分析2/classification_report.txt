@@ -1,0 +1,14 @@
+Overall Accuracy: 0.9880
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      health     1.0000    0.9600    0.9796       200
+        ball     0.9901    1.0000    0.9950       200
+       inner     0.9851    0.9950    0.9900       200
+       outer     0.9660    0.9950    0.9803       200
+        comb     1.0000    0.9900    0.9950       200
+
+    accuracy                         0.9880      1000
+   macro avg     0.9883    0.9880    0.9880      1000
+weighted avg     0.9883    0.9880    0.9880      1000
